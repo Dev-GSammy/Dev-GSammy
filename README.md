@@ -1,6 +1,4 @@
 Hi there 👋
-![Cropped sam](https://user-images.githubusercontent.com/57525649/127732923-32cce6a3-6f04-49a1-b0bd-df0694da1ede.jpg)
-
 Nice to have you here. I'm a software developer with the .NET environment. I code in C#, C, C++ atm (family of C's, right?😄)
 I do Mobile devs, Desktop apps and look forward to breaking into the Embedded systems world.
 
