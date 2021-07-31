@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 👋
+![Uploading Cropped sam.jpg…]()
 
-<!--
-**Dev-GSammy/Dev-GSammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to have you here. I'm a software developer with the .NET environment. I code in C#, C, C++ atm (family of C's, right?😄)
+I do Mobile devs, Desktop apps and look forward to breaking into the Embedded systems world.
 
-Here are some ideas to get you started:
+I have many other valuable skills asides programming. These includes:
+Computer Repairs
+Graphic Designing
+Affiliate marketing
+Excellent Word Processors Usage (I've been a coach)
+among others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I so much love the feeling of competing in typing (cuz I type at 80WPM atm)
+I am a man of Faith. You a Christian?
+You wanna reach me? 
+Phone/Whatsapp: +234 7036324540
+Twitter: Dev-GSammy
+
+and before you leave, please follow me 🤔. Thanks.
