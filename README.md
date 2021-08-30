@@ -10,9 +10,12 @@ Excellent Word Processors Usage (I've been a coach)
 among others.
 
 I so much love the feeling of competing in typing (cuz I type at 80WPM atm). 
-I am a Christian. You a Christian?.\n
-You can reach me through\n
-Phone/Whatsapp: +234 7036324540. \n
+I am a Christian. You a Christian?.
+
+You can reach me through
+
+Phone/Whatsapp: +234 7036324540.
+
 Twitter: Dev-GSammy
 
 and before you leave, please follow me 🤔. Thanks.
