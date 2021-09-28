@@ -3,7 +3,7 @@ Nice to have you here. I'm a .NET Developer. (C# Major)
 I do Mobile devs, Desktop apps, Cloud and look forward to joining the Microsoft team to work on the AR/VR Tech.
 
 I have many other valuable skills asides programming. These include:
-IT Support
+IT Support,
 Computer Repairs, 
 Graphic Design,
 Transcribing
