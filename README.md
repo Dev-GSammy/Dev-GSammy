@@ -6,7 +6,7 @@ I have many other valuable skills asides programming. These include:
 IT Support,
 Computer Repairs, 
 Graphic Design,
-Transcribing
+Transcribing,
 Affiliate marketing, 
 Excellent Word Processors Usage (I've been a coach)
 among others.
@@ -18,7 +18,7 @@ You can reach me through
 
 Phone/Whatsapp: +234 7036324540.
 
-Twitter: Dev-GSammy
+Twitter: @Dev-GSammy
 
 Linkedin: https://www.linkedin.com/in/samuel-t-fatunmbi/
 
