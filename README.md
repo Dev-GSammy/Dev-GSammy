@@ -13,8 +13,6 @@ among others.
 
 I love to beat the keys until something happens. The sound of it feels great. 
 
-I am a Christian. You a Christian?.
-
 You can reach me through
 
 Phone/Whatsapp: +234 7036324540.
