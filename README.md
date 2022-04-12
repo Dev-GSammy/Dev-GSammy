@@ -1,7 +1,7 @@
 Hi there 👋
 Nice to have you here. 
 
-I'm a .NET Developer (C# Major). I can build Mobile apps, Desktop apps, Cloud apps.
+I'm a .NET Developer (C# Major). I can build Mobile apps and Desktop apps.
 
 I have many other valuable skills asides programming. These include:
 IT Support,
