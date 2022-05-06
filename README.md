@@ -1,13 +1,12 @@
 Hi there 👋
 Nice to have you here. 
 
-I'm a .NET Developer (C# Major). I can build Mobile apps and Desktop apps.
+I'm a .NET Developer (C# Major). I build Mobile and Desktop apps atm.
 
-I have many other valuable skills asides programming. These include:
-IT Support,
-Computer Repairs, 
-Graphic Design,
-Transcribing,
+I have other valuable skills asides programming:
+IT Support (Computer Hardware and Software),
+I possess 8+ years experience in Computer Engineering,
+I am a transcriptionist (I type quite fast),
 Excellent Word Processors Usage (I've been a coach)
 among others.
 
