@@ -1,7 +1,7 @@
 Hi there 👋
 Nice to have you here. 
 
-I'm a .NET Developer (C# Major). I build Mobile and Desktop apps atm.
+I'm a .NET Developer (C# Major). I build Mobile and Desktop apps.
 
 I have other valuable skills asides programming:
 IT Support (Computer Hardware and Software),
@@ -20,4 +20,4 @@ Twitter: @Dev_GSammy
 
 Linkedin: https://www.linkedin.com/in/samuel-t-fatunmbi/
 
-and before you leave, please follow me 🤔. Thanks.
+and before you leave, I'll appreciate a follow 🤔. Thanks.
