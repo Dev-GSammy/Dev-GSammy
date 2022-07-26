@@ -1,16 +1,16 @@
 Hi there 👋
 Nice to have you here. 
 
-I'm a .NET Developer (C# Major). I build Mobile and Desktop apps.
+I'm a .NET Developer (C# Major).
 
 I have other valuable skills asides programming:
 IT Support (Computer Hardware and Software),
 I possess 8+ years experience in Computer Engineering,
-I am a transcriptionist (I type quite fast),
 Excellent Word Processors Usage (I've been a coach)
 among others.
 
 I love to beat the keys until something happens. The sound of it feels great. 
+I love typing competitions soooo much. Lol
 
 You can reach me through
 
