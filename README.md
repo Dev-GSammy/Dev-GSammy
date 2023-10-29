@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel T. Fatunmbi</h1>
 <img align="center" margin="10" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">I'm a dotnet Software Engineer. I have developed enterprise applications, mobile, web and desktop apps in my few years of experience. I have other valuable skills aside from programming: IT Support (Computer Hardware and Software), I possess a decade of experience in Computer Engineering, Excellent Word Processors Usage (I've been a trainer) among others. I love to beat the keys until something happens. Sounds and feels great.</h3>
-
-
+<h3 align="center">Glad to have you here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gsammy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gsammy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
