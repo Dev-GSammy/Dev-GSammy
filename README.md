@@ -1,9 +1,7 @@
 <img align="center" margin="10" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">Glad to have you here.</h3>
+<h3 align="left">Glad to have you here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gsammy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gsammy" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
-
 - 🔭 I’m currently working on [C# WebApp Employee Management System](private)
 
 - 🌱 I’m currently learning **Javascript, React Native.**
