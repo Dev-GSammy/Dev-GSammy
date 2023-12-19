@@ -2,9 +2,9 @@
 <h3 align="left">Glad to have you here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gsammy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gsammy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
-- 🔭 I’m currently working on Webapp Payroll System
+- 🔭 I’m currently working on quite a number of interesting projects (personal and otherwise).
 
-- 🌱 I’m currently learning **Javascript, React Native.**
+- 🌱 I’m also learning **Javascript, Typescript, React Native.**
 
 - 👯 I’m looking to collaborate on **Enterprise Application projects**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zr6SUxknxVULxnKxhOHtCKnmUcTtk_RX/view?usp=sharing](https://drive.google.com/file/d/1Zr6SUxknxVULxnKxhOHtCKnmUcTtk_RX/view?usp=sharing)
 
-- ⚡ Fun fact **I have great comms skills.**
+- ⚡ Fun fact **I have great communication skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
