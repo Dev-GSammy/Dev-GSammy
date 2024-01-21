@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dev.gsammy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zr6SUxknxVULxnKxhOHtCKnmUcTtk_RX/view?usp=sharing](https://drive.google.com/file/d/1Zr6SUxknxVULxnKxhOHtCKnmUcTtk_RX/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1pnl3jex7fhvUV2nLpGEHK3U7lpcsLH9l/view?usp=sharing
 
 - ⚡ Fun fact **I have great communication skills.**
 
