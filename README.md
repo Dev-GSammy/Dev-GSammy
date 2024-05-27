@@ -2,17 +2,17 @@
 <h3 align="left">Glad to have you here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gsammy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gsammy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
-- 🔭 I’m currently working on quite a number of interesting projects (personal and otherwise).
+- 🔭 I’m currently working on quite a number of interesting projects (personal and corporate).
 
-- 🌱 I’m also learning **Javascript, Typescript, React Native.**
+- 🌱 I’m interested in breaking into web3.
 
-- 👯 I’m looking to collaborate on **Enterprise Application projects**
+- 👯 I’m looking to collaborate on **Enterprise Application projects, cool stuffs.**
 
-- 💬 Ask me about **C#, Dotnet, WPF, Xamarin, Winforms, WebApps**
+- 💬 Ask me about **C#, Dotnet, Rest APIs, React, Typescript WPF, Xamarin, Winforms, WebApps**
 
 - 📫 How to reach me **dev.gsammy@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1pnl3jex7fhvUV2nLpGEHK3U7lpcsLH9l/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1VFIghrDk4y9NNcG28OyZuvyOXsAkWTBk/view?usp=sharing
 
 - ⚡ Fun fact **I have great communication skills.**
 
