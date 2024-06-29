@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **dev.gsammy@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1VFIghrDk4y9NNcG28OyZuvyOXsAkWTBk/view?usp=sharing
-
 - ⚡ Fun fact **I have great communication skills.**
 
 <h3 align="left">Connect with me:</h3>
