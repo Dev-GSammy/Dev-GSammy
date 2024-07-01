@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
 - 🔭 I’m currently working on quite a number of interesting projects (personal and corporate).
 
-- 🌱 I’m interested in breaking into web3.
+- 🌱 I’m fascinated and would like to dabble into web3.
 
-- 👯 I’m looking to collaborate on **Enterprise Application projects, cool stuffs.**
+- 👯 I’m looking to collaborate on **Enterprise Applications, Fintech, Edutech. Genius inventions**
 
-- 💬 Ask me about **C#, Dotnet, Rest APIs, React, Typescript WPF, Xamarin, Winforms, WebApps**
+- 💬 Ask me about **C#, Dotnet, Rest APIs, React, Typescript, WPF, Xamarin, Winforms, WebApps**
 
-- 📫 How to reach me **dev.gsammy@gmail.com**
+- 📫 Please reach out to me @**dev.gsammy@gmail.com**
 
-- ⚡ Fun fact **I have great communication skills.**
+- ⚡ Fun fact **I communicate pretty well 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
