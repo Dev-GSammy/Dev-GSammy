@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
 - 🔭 I’m currently working on quite a number of interesting projects (personal and corporate).
 
-- 🌱 I’m fascinated and would like to dabble into web3.
+- 🌱 I’m fascinated by web3 and would like to get into it.
 
 - 👯 I’m looking to collaborate on **Enterprise Applications, Fintech, Edutech. Genius inventions**
 
