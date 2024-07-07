@@ -12,7 +12,7 @@
 
 - 📫 Please reach out to me @**dev.gsammy@gmail.com**
 
-- ⚡ Fun fact **I communicate pretty well 🤓**
+- ⚡ Fun fact **I am a voracious consumer of books and I communicate way better than expected of a typical software dev🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
