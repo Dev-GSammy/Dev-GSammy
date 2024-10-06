@@ -2,17 +2,17 @@
 <h3 align="left">Glad to have you here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gsammy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gsammy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="dev-gsammy" /></a> </p>
-- 🔭 I’m currently working on quite a number of interesting projects (personal and corporate).
+- 🔭 I'm a full-stack developer leaning more toward programming the backend.
 
-- 🌱 I’m fascinated by web3 and would like to get into it.
+- 🌱 I live and learn one day at a time.
 
-- 👯 I’m looking to collaborate on **Enterprise Applications, Fintech, Edutech. Genius inventions**
+- 👯 I would love to work on softwares in **Fintech, Edutech and so on**
 
-- 💬 Ask me about **C#, Dotnet, Rest APIs, React, Typescript, WPF, Xamarin, Winforms, WebApps**
+- 💬 Ask me about **Dotnet, Rest APIs, React, Typescript, WPF, Xamarin, Winforms, Firebase, SQL...**
 
 - 📫 Please reach out to me @**dev.gsammy@gmail.com**
 
-- ⚡ Fun fact **I am a voracious consumer of books and I communicate way better than expected of a typical software dev🤓**
+- ⚡ Fun fact **I love to read books and I communicate better than expected of a typical software dev🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
