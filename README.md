@@ -6,7 +6,7 @@
 
 - 🌱 I live and learn one day at a time.
 
-- 👯 I would love to work on softwares in **Fintech, Edutech and so on**
+- 👯 I would love to work on software in **Fintech, Edutech, Oil & Gas ...**
 
 - 💬 Ask me about **Dotnet, Rest APIs, React, Typescript, WPF, Xamarin, Winforms, Firebase, SQL...**
 
