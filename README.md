@@ -3,14 +3,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-gsammy&label=Profile%20views&color=0e75b6&style=flat" alt="dev-gsammy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-gsammy" alt="profile-chart" /></a> </p>
 Distributed Computing Researcher and Software Engineer dedicated to building scalable, high-performance systems. Currently pursuing a PhD at IIT, my research focuses on the intersection of Cloud Systems, HPC, and Blockchain.
+
 My recent work includes developing VaultX, a lightweight Proof-of-Space consensus mechanism. By implementing bucketed storage and multi-threaded plotting with OpenMP, I’ve focused on optimizing cryptographic lookups and large-scale data handling to improve efficiency in decentralized systems.
+
 Before diving into full-time research, I spent years in industry building robust infrastructure:
+
 EdTech & Global Scale: Led engineering teams to launch platforms serving over 5,000 users and processing thousands of applications.
+
+
 HealthTech: Developed EHR desktop applications to modernize data management for pharmacies and hospitals.
+
 Technical Leadership: Currently serve as Technical Team Lead for the I-Scholar Initiative, mentoring engineers and maintaining scholarship application systems.
+
 Core Tech Stack:
+
 Systems & Research: C, Shell Scripting, OpenMP, HDFS, Spark, Parallel & Distributed Processing.
 Software Engineering: C#, .NET, React, TypeScript, MySQL, CosmosDB, and MVVM/MVC architectures.
+
 I thrive in collaborative environments and love "pushing the boundaries" of what distributed storage and consensus protocols can achieve.
 
 <h3 align="left">Connect with me:</h3>
